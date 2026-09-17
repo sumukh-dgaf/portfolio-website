@@ -4,7 +4,7 @@
 // ---------------------------------------------------------------------------
 
 export const site = {
-  name: "Aarav Mehta",
+  name: "Sumukh Gupta",
   role: "Software Engineer & 3rd-Year B.Tech Student",
   tagline: "I build fast, thoughtful software.",
   location: "India",
